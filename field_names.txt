@@ -1,0 +1,3 @@
+http: _shodan,os,ip,isp,port,hostnames,location,timestamp,domains,org,data,asn,transport,ip_str
+smtp: _shodan,product,hostnames,os,ip,isp,cpe,port,version,location,timestamp,domains,org,data,asn,transport,ip_str
+https: os,title,ip,isp,_shodan,port,ssl,hostnames,location,timestamp,domains,org,data,asn,transport,ip_str
